@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "Environment": {
-      "value": ""
+      "value": "dev"
     },
     "Location": {
-      "value": " "
+      "value": "westus "
     },
     "OpsManVHDStorageAccount": {
-      "value": ""
+      "value": "chotastore"
     },
     "AdminSSHKey": {
-      "value": ""
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDaojr8/IOrAjbGHXCixjYimyeNmyugEuaxgg/PklsIrqxAaJiZE+M3Ar7E6tTBoIAiIhmtK0Nvg0W8I4xmHklVjN4+vXXU+tV1AAg0CMyNsPbzy26bBtOYlKMgN7TYjD4g8k3IHHx+DsWdcOSg40+hEDyxZQv5V7HNSofTSzGQtSLGa+zcYvfc4DAUnlmyJA0OAxxSXgf6Tkluvgpj55g+6R/Gq0pSN4D9S+GKAGxUdJvOEtwffWL2v7CDR8jCd22VcobJYAHjuIv2n26jzZge9Y5KH807lzanGhv2v/pTEH/pAJqrCk4E2q3Nzb9KeXrMjgyMyhj9sM6ZLON5gP7d ubuntu"
     },
     "BlobStorageContainer": {
-      "value": ""
+      "value": "opsman-image"
     }
   }
 }
